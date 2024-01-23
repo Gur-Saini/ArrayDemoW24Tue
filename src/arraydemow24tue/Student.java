@@ -6,7 +6,6 @@ package arraydemow24tue;
 
 /**
  *This has been modified on 23 Jan at 12:47PM
- * added comment on 12:53 Pm
  * @author Ronak
  */
 public class Student {
